@@ -1,0 +1,7 @@
+{
+  "name": "Penzi Kenya",
+  "description": "Authentic Kenyan dating app featuring swipe discovery, serious & casual intent categories, interactive chat, Swahili icebreakers, and rich profile customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
